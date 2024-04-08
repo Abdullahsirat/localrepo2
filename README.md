@@ -1,2 +1,2 @@
-#  This is my second repo.
+#  This is the second repo.
 Author - Abdullah (Grow People)
